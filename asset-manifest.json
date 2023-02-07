@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/roko-portfolio/static/css/main.e8249293.css",
+    "main.js": "/roko-portfolio/static/js/main.ab58e345.js",
+    "static/media/var 3.2.bmp": "/roko-portfolio/static/media/var 3.2.65d23d616c535141b120.bmp",
+    "static/media/riy-project-img.bmp": "/roko-portfolio/static/media/riy-project-img.35f90d8cb30e77affab4.bmp",
+    "static/media/avatar.jpg": "/roko-portfolio/static/media/avatar.2dc24810c7110c741481.jpg",
+    "static/media/romancv.pdf": "/roko-portfolio/static/media/romancv.1f631389fce52141e9e8.pdf",
+    "static/media/roko-logo-light.png": "/roko-portfolio/static/media/roko-logo-light.f2d182f621fda473f758.png",
+    "static/media/roko-logo-dark.png": "/roko-portfolio/static/media/roko-logo-dark.afe4558e76d7aae27788.png",
+    "index.html": "/roko-portfolio/index.html",
+    "static/media/bars-solid.svg": "/roko-portfolio/static/media/bars-solid.407d96f0e9d1a3614091.svg",
+    "static/media/xmark-solid.svg": "/roko-portfolio/static/media/xmark-solid.60cf68c83c1745a9a5a3.svg",
+    "main.e8249293.css.map": "/roko-portfolio/static/css/main.e8249293.css.map",
+    "main.ab58e345.js.map": "/roko-portfolio/static/js/main.ab58e345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8249293.css",
+    "static/js/main.ab58e345.js"
+  ]
+}
